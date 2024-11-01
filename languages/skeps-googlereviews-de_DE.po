@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Language: de_DE\n"
+"POT-Creation-Date: 2020-02-26 16:56+0000\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"PO-Revision-Date: 2020-02-26 16:57+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Project-Id-Version: Skeps Google Reviews\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: admin <anne-jan@skeps.nl>\n"
+"Language-Team: German\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: includes/class-skeps-googlereviews-mybusiness.php:45
+#: includes/class-skeps-googlereviews-mybusiness.php:70
+#: includes/class-skeps-googlereviews-mybusiness.php:91
+msgid "No permission"
+msgstr ""
+
+#: includes/class-skeps-googlereviews-mybusiness.php:74
+msgid "Invalid nonce"
+msgstr ""
+
+#: public/partials/skeps-googlereviews-widget-basic.php:46
+msgid "out of"
+msgstr "aus"
+
+#: public/partials/skeps-googlereviews-widget-basic.php:48
+msgid "reviews on Google"
+msgstr "bewertungen von Google"
+
+#. Name of the plugin
+msgid "Skeps Google Reviews"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This is a short description of what the plugin does. It's displayed in the "
+"WordPress admin area."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.skeps.nl/wordpress"
+msgstr ""
+
+#. Author of the plugin
+msgid "SKEPS"
+msgstr ""
